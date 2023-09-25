@@ -2,7 +2,6 @@
 using namespace std;
 
 void vote(int age);
-void not_eligible(int age);
 main(){
 	int age;
 	cout<<"Enter your age: ";
